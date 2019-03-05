@@ -6,8 +6,8 @@ header-img: img/post-bg-desk.jpg
 description: "Every failure is leading towards success."
 keyword: "小火苗的博客,小火苗博,火苗博"
 url: "http://personq.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "" # you code repository
+#baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/personq/personq.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
