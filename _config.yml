@@ -2,7 +2,7 @@
 title: BY Blog
 SEOTitle: 小火苗的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email:
+#email:
 description: "Every failure is leading towards success."
 keyword: "小火苗的博客,小火苗博,火苗博"
 url: "http://personq.github.io"          # your host, for absolute URL
